@@ -23,7 +23,8 @@ Locker Bypass is a Python script designed for bypassing Windows AppLocker and Gr
    git clone https://github.com/creator1116/locker-bypass.git
 
 ## Usage
-
+run main.py, follow instructions, make sure all the dependencies are installed
 ## Disclaimer
+use this program at your own risk, be careful and dont do anything stupid
 
-## Contributing
+
